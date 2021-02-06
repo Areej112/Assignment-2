@@ -1,0 +1,29 @@
+/* .error{
+  border: 2px solid red;
+}
+.error-text{
+  color: red;
+}
+.btn{
+
+} */
+h1{
+  color:rgb(255, 0, 149);
+}
+form label {
+  display: inline-block;
+  width: 100px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  margin-left: 5px;
+}
+
+label.error {
+  display: inline;
+}
